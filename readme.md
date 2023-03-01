@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decentralized MultiSig
 
 This is a Multiple Signature Wallet built with [Hardhat](https://hardhat.org/).
@@ -38,3 +39,11 @@ In MetaMask, select the 'Networks' tab, then select 'Custom RPC' - then fill in:
 - Chain ID: `31337`
 
 Select 'Save' then import a private key into MetaMask from your local blockchain and you are a go!
+=======
+<<<<<<< HEAD
+gvsydgwgduw
+djsdgjwbsdj
+=======
+huii
+>>>>>>> e1cf445fcc70eb61c3e759d7dc6345f4763b2589
+>>>>>>> 64499e1ebba37690555e035430c54e3ceb5093ec
