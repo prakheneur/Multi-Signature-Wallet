@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: SEE LICENSE IN LICENSE
-pragma solidity ^0.8.19;
+pragma solidity 0.8.4;
 
 contract MultiSignatureWallet {
     event Confirmed(address indexed _owner, uint256 indexed _transactionId);
