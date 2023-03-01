@@ -1,0 +1,8 @@
+!.gitignore
+node_modules
+.parcel-cache
+artifacts
+dist
+app/__config.json
+cache
+.cache
